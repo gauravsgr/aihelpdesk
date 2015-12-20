@@ -1,0 +1,9 @@
+<SCRIPT LANGUAGE="JavaScript"> 
+							<!--
+									   bV = parseInt(navigator.appVersion)
+									   if (bV >= 4) window.print()
+ 
+							//--> 
+</SCRIPT> 
+</BODY> 
+</HTML>
